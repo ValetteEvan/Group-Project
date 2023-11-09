@@ -2,6 +2,6 @@
 #include <stdlib.h>
 
 int main() {
-	printf("Kris get the banana\n");
+	printf("Kris get the banana\n"); // Evan le gros bg :3
 	return 0;
 }
